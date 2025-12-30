@@ -24,6 +24,7 @@ This project was completed as part of an embedded systems lab assignment.
 - UDP networking (socket-based communication)
 
 ## Project Structure
+```
 pi-esp8266-udp-control/
 ├── pi_client.py # Main Raspberry Pi controller
 ├── pi_button_to_esp.py # Button-triggered UDP sender
@@ -36,3 +37,4 @@ pi-esp8266-udp-control/
 │ ├── ESP_UDP_Receiver.ino
 │ ├── ESP_UDP_Sender.ino
 │ └── ESP_Wifi_Test.ino
+```
