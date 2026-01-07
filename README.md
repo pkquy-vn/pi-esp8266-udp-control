@@ -52,6 +52,11 @@ The ESP8266 IP address is hard-coded in the Raspberry Pi Python program.
   - 3.3V → photoresistor → A0 → resistor → GND
 - Built-in LED (GPIO2 / D4) used for flashing status
 
+## Hardware Setup
+
+### ESP8266 and Raspberry Pi Setup
+![ESP8266 and Raspberry Pi Setup](docs/images/Hardware_Setup.jpg)
+
 ---
 
 ## Network Configuration
