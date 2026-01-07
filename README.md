@@ -161,15 +161,16 @@ Both devices return to their initial state.
 ```
 udp_light_project/
 ├── esp_code/
-│ ├── ESP_Server.ino
-│ ├── ESP_UDP_Receiver.ino
-│ ├── ESP_UDP_Sender.ino
-│ └── ESP_UDP_Ping.ino
+│   ├── ESP_Server.ino
+│   ├── ESP_UDP_Receiver.ino
+│   ├── ESP_UDP_Sender.ino
+│   └── ESP_UDP_Ping.ino
 └── pi_code/
-├── pi_client.py
-├── udp_sender.py
-├── udp_receiver.py
-└── button_udp_sender.py
+    ├── pi_client.py
+    ├── udp_sender.py
+    ├── udp_receiver.py
+    └── button_udp_sender.py
+
 ```
 
 ---
